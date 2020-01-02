@@ -1,4 +1,4 @@
-function saluda () {
+/* function saluda () {
    alert('hola');
     }
-
+*/
