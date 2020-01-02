@@ -1,5 +1,8 @@
 /* estilos principales de la página */
 body{
+    
+    font-family: 'Lato', sans-serif;
+    
  /*   color: #ff0000;
      font-size: 24px; */  
 }
@@ -11,10 +14,7 @@ h1,h2,h3,h4,h5,h6,p{
 .texto_resaltado{
     color: #ff00ff;
     font-weight:500;
-    
-}
+    font-size: 22px;
+    font-family: Arial, tahoma, Georgia, sans-serif;
+    }
 
-.css{
-    color:aqua
-        font-weight:800;
-}
