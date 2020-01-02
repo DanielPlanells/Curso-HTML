@@ -9,12 +9,12 @@ h1,h2,h3,h4,h5,h6,p{
 }
 
 .texto_resaltado{
-    color: #ff00ff
-    font-weight: 700;
+    color: #ff00ff;
+    font-weight:500;
     
 }
 
-.texto_resaltado{
+.css{
     color:aqua
         font-weight:800;
 }
