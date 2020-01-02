@@ -7,3 +7,14 @@ body{
 h1,h2,h3,h4,h5,h6,p{
     margin: 10px;
 }
+
+.texto1{
+    color: #ff00ff
+    font-weight: 700;
+    
+}
+
+.texto_resaltado{
+    color:aqua
+        font-weight:800;
+}
